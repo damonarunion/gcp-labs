@@ -1,0 +1,19 @@
+Processing Data with Google Cloud Dataflow / Lab Fixes:
+
+Following "Clone the Data Science sample" but prior to "Test the Python data processing functions locally" 
+
+
+If you want to embed images, this is how you do it:
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+execute the following commands in order:
+
+cp df05.py OLD_df05.py
+cp df06.py OLD_df06.py
+rm df05.py
+rm df06.py
+gsutil cp gs://darunion-transfer/df05.py df05.py 
+gsutil cp gs://darunion-transfer/df06.py df06.py 
+chmod +x df05.py
+chmod +x df06.py
