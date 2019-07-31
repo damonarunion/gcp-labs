@@ -12,6 +12,8 @@
 ## Overview
 Trying to update in the Browser
 
+This is updated in Atom something is out of sequence
+
 UPDATE ME In this lab you'll learn how to create and connect to a Google Cloud SQL PostgreSQL instance and perform basic SQL operations using the Google Cloud Platform Console and the psql client.
 
 
