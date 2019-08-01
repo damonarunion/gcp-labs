@@ -38,7 +38,7 @@ OLD: In this lab you'll learn how to create and connect to a Google Cloud SQL Po
 
 Click on the menu icon in the top left of the screen to see the __Navigation menu__.
 
-![742dc285f86cdd1f.png](img/742dc285f86cdd1f.png)
+![742dc285f86cdd1f.png](742dc285f86cdd1f.png)
 
 In the left menu of the Console, click on __SQL__.
 
