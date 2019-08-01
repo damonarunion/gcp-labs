@@ -1,4 +1,4 @@
-# Cloud SQL for PostgreSQL (Working Title)
+# Cloud SQL for PostgreSQL - Creating an Instance and Loading Data (Working Title)
 
 
 ## GSP629
@@ -10,11 +10,10 @@
 
 
 ## Overview
-Trying to update in the Browser
 
-This is updated in Atom something is out of sequence
+In this lab you'll learn how to create and connect to a Google Cloud SQL PostgreSQL instance, load data from an existing PostgreSQL backup, and perform basic SQL operations using the Google Cloud Platform Console and the psql client to verify data characteristics.
 
-UPDATE ME In this lab you'll learn how to create and connect to a Google Cloud SQL PostgreSQL instance and perform basic SQL operations using the Google Cloud Platform Console and the psql client.
+OLD: In this lab you'll learn how to create and connect to a Google Cloud SQL PostgreSQL instance and perform basic SQL operations using the Google Cloud Platform Console and the psql client.
 
 
 ## Setup and Requirements
